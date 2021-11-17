@@ -1,0 +1,16 @@
+C:\Users\whysoezy\RiderProjects\DoubleLinkList\DoubleLinkList\bin\Debug\net5.0\DoubleLinkList.exe
+C:\Users\whysoezy\RiderProjects\DoubleLinkList\DoubleLinkList\bin\Debug\net5.0\DoubleLinkList.deps.json
+C:\Users\whysoezy\RiderProjects\DoubleLinkList\DoubleLinkList\bin\Debug\net5.0\DoubleLinkList.runtimeconfig.json
+C:\Users\whysoezy\RiderProjects\DoubleLinkList\DoubleLinkList\bin\Debug\net5.0\DoubleLinkList.runtimeconfig.dev.json
+C:\Users\whysoezy\RiderProjects\DoubleLinkList\DoubleLinkList\bin\Debug\net5.0\DoubleLinkList.dll
+C:\Users\whysoezy\RiderProjects\DoubleLinkList\DoubleLinkList\bin\Debug\net5.0\ref\DoubleLinkList.dll
+C:\Users\whysoezy\RiderProjects\DoubleLinkList\DoubleLinkList\bin\Debug\net5.0\DoubleLinkList.pdb
+C:\Users\whysoezy\RiderProjects\DoubleLinkList\DoubleLinkList\obj\Debug\net5.0\DoubleLinkList.csproj.AssemblyReference.cache
+C:\Users\whysoezy\RiderProjects\DoubleLinkList\DoubleLinkList\obj\Debug\net5.0\DoubleLinkList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whysoezy\RiderProjects\DoubleLinkList\DoubleLinkList\obj\Debug\net5.0\DoubleLinkList.AssemblyInfoInputs.cache
+C:\Users\whysoezy\RiderProjects\DoubleLinkList\DoubleLinkList\obj\Debug\net5.0\DoubleLinkList.AssemblyInfo.cs
+C:\Users\whysoezy\RiderProjects\DoubleLinkList\DoubleLinkList\obj\Debug\net5.0\DoubleLinkList.csproj.CoreCompileInputs.cache
+C:\Users\whysoezy\RiderProjects\DoubleLinkList\DoubleLinkList\obj\Debug\net5.0\DoubleLinkList.dll
+C:\Users\whysoezy\RiderProjects\DoubleLinkList\DoubleLinkList\obj\Debug\net5.0\ref\DoubleLinkList.dll
+C:\Users\whysoezy\RiderProjects\DoubleLinkList\DoubleLinkList\obj\Debug\net5.0\DoubleLinkList.pdb
+C:\Users\whysoezy\RiderProjects\DoubleLinkList\DoubleLinkList\obj\Debug\net5.0\DoubleLinkList.genruntimeconfig.cache
